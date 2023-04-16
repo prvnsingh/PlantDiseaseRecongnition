@@ -60,11 +60,11 @@ Floder Structure:
   
     There are 3 models of ResNet18 with 3 datasets and TSNE model along with the saved models.
       Dataset1
-        Final_Dataset1.ipynb
+        dataset-1.ipynb
         Model.pt
         Model.pth
       Dataset2
-        Final_Dataset2.ipynb
+        Dataset-2.ipynb
         Model.pt
       Dataset3
         Final_Dataset3.ipynb
