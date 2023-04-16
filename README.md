@@ -70,7 +70,7 @@ Floder Structure:
         Final_Dataset3.ipynb
         Model.pt
       TSNE
-        TSNE_Dataset3.ipynb
+        TSNE_ResNet18_Dataset3.ipynb
   
   ShuffleNet
   
