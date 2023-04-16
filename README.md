@@ -113,7 +113,6 @@ Requirements:
     * os
     * shutil
     * random
-    * os
     * torch
     * torchvision.transforms
     * torchvision.datasets
@@ -125,7 +124,6 @@ Requirements:
     * matplotlib.pyplot
     * tqdm
     * numpy
-    * drive (google.colab)
     * sklearn.metrics
     * seaborn
 
