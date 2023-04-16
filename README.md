@@ -6,7 +6,7 @@ We have used deep learning algorithms such as MobileNet, ShuffleNet, and Resnet1
 Specifically, the models achieved accuracy rates ranging from 92.64% to 99.19% on various datasets of diseased and healthy plant leaves. These results demonstrate the potential of deep learning-based solutions for accurately identifying and classifying plant diseases, which could ultimately reduce the need for manual inspection by experts and improve the efficiency and cost-effectiveness of plant disease diagnosis.
 
 ## Getting started
-There are three main directory dedicated to each model. 
+   We have trained 3 CNN models 
 - [MobileNet-v2](https://pytorch.org/hub/pytorch_vision_mobilenet_v2/)
 - [ResNet18](https://pytorch.org/hub/pytorch_vision_resnet/)
 - [ShuffleNet](https://pytorch.org/hub/pytorch_vision_shufflenet_v2/)
